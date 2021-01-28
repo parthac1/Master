@@ -1,7 +1,2 @@
-This is the mastr master branch 
-<<<<<<< HEAD
- 
-This is the branch2 copy .
-=======
-This is the branch1 copy .
->>>>>>> branch1
+This is the mastr  branch 
+ This is the branch1 
